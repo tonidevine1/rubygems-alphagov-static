@@ -17,7 +17,7 @@ gem 'sprockets-rails', "2.3.3" #FIXME: This is temporary, will allow to upgrade 
 
 group :development do
   gem 'image_optim', '0.17.1'
-  gem 'better_errors'
+  gem 'better_errors', '>= 2.2.0'
   gem 'binding_of_caller'
 end
 
