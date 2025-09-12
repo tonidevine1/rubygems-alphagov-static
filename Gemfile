@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.7.1'
+gem 'rails', '6.1.7.9'
 
 gem 'unicorn', '4.9.0'
 
