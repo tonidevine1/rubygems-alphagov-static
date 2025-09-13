@@ -26,7 +26,7 @@ group :test do
   gem 'govuk-content-schema-test-helpers', '~> 1.4'
   gem 'mocha', '~> 1.1.0', :require => false
   gem 'shoulda'
-  gem 'webmock'
+  gem 'webmock', '>= 1.22.1'
   gem 'test-unit'
   gem 'minitest'
   gem 'minitest-capybara', '~> 0.7.2'
